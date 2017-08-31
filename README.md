@@ -14,3 +14,10 @@ https://atom.io/
 
 commands
 cmd+i > Execute the script
+
+
+edits
+https://github.com/ZenHubIO/API
+
+Linking issues & pull requests
+https://www.zenhub.com/blog/github-issue-pull-request-linking/
