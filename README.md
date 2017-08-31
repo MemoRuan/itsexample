@@ -14,3 +14,6 @@ https://atom.io/
 
 commands
 cmd+i > Execute the script
+
+
+edits 
