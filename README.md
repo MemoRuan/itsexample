@@ -16,6 +16,7 @@ commands
 cmd+i > Execute the script
 
 
+<<<<<<< HEAD
 Atom tips
 https://www.youtube.com/watch?v=UYPgPyxwF28
 
@@ -42,3 +43,14 @@ Product backlog → Open issues without a Milestone (Master Story List)
 Sprint backlog → Issues with a Milestone
 ----- Use Icebox pipeline to “freeze” stories that aren’t a priority,
 ----- Use Backlog pipeline to prioritize issues for multiple Milestones
+=======
+<<<<<<< HEAD
+edits
+https://github.com/ZenHubIO/API
+
+Linking issues & pull requests
+https://www.zenhub.com/blog/github-issue-pull-request-linking/
+=======
+edits 
+>>>>>>> 191a26195fc1bfc7507c48e7e0e0fca2f39013d6
+>>>>>>> master
